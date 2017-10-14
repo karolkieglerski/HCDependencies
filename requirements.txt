@@ -1,0 +1,2 @@
+terraform=0.10.7
+vault=0.8.3
